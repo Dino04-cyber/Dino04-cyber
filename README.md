@@ -17,7 +17,7 @@ I'm proficient in the following technologies and languages:
 - HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" alt="HTML5 Logo">
 - CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" alt="CSS3 Logo">
 - Entry-Level JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" alt="JavaScript Logo">
-- React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React Logo">
+<!--- React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React Logo">--->
 
 ### Other Skills
 
@@ -34,7 +34,7 @@ Feel free to explore my repositories for my work!
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue)](https://www.linkedin.com/in/osvaldino-jovete-563564288/)
 
 
-Let's connect and explore opportunities together, because finding the perfect job is an exciting journey, and I'm eager to be a part of it! 😄
+<!---Let's connect and explore opportunities together, because finding the perfect job is an exciting journey, and I'm eager to be a part of it! 😄--->
 
 <!---
 Dino04-cyber/Dino04-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
