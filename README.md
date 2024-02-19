@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I am Osvaldino Antonio Jovete, a software development enthusiast currently studying and passionate about web development. Here's a bit about me and what I'm working on:
+I am Osvaldino Antonio Jovete, a software development enthusiast  and passionate about web development. Here's a bit about me and what I'm working on:
 
 ## About Me
 
-- 💻 Software Development Student
+- 💻 Software Developer
 - 🌐 Front-End Web Developer
 - 🚀 Always eager to learn and grow
 
@@ -17,12 +17,15 @@ I'm proficient in the following technologies and languages:
 - HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" alt="HTML5 Logo">
 - CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" alt="CSS3 Logo">
 - Entry-Level JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" alt="JavaScript Logo">
-<!--- React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React Logo">--->
+- React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React Logo">
 
 ### Other Skills
 
 - Git <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" alt="Git Logo">
 - GitHub <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" alt="GitHub Logo">
+- Figma <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"  width="20" alt="Figma Logo">
+- Supabase <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"  width="20" alt="Supabase Logo">
+
 
 ## Projects
 
